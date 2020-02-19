@@ -42,7 +42,7 @@ const mapStateToProps = state => ({
 });
 
 Dashboard.propTypes = {
-  project: PropTypes.object.isRequired,
+  //project: PropTypes.object.isRequired,
   getProjects: PropTypes.func.isRequired
 };
 
